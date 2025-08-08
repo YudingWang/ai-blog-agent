@@ -1,0 +1,11 @@
+python-dotenv>=1.0.1
+langchain>=0.2.14
+langchain-openai>=0.1.22
+openai>=1.40.0
+pandas>=2.2.2
+requests>=2.32.3
+Pillow>=10.4.0
+apscheduler>=3.10.4
+beautifulsoup4>=4.12.3
+lxml>=5.2.2
+tqdm>=4.66.4
