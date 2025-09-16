@@ -10,7 +10,7 @@ This project wraps your existing logic into a LangChain-based **AI Agent** that:
 > Your original files have been refactored into tools and agent flows. Hardcoded credentials were removed; use `.env` instead.
 
 ## 📦 Structure
-```
+``` 
 ai-blog-agent/
 ├─ agent/
 │  ├─ __init__.py 
