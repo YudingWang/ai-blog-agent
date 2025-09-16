@@ -13,7 +13,7 @@ This project wraps your existing logic into a LangChain-based **AI Agent** that:
 ```
 ai-blog-agent/
 ├─ agent/
-│  ├─ __init__.py
+│  ├─ __init__.py 
 │  ├─ config.py 
 │  ├─ content.py
 │  ├─ wordpress.py
